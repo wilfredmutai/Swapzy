@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765957404463",
+    "firebase_url": "https://swapzy-2f9fb.firebaseio.com",
+    "project_id": "swapzy-2f9fb",
+    "storage_bucket": "swapzy-2f9fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765957404463:android:e6b1a71070f9c914",
+        "android_client_info": {
+          "package_name": "com.example.swapzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765957404463-qfhej3mmj6ctc09g6fg2tm4e6gm63ob6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swapzy",
+            "certificate_hash": "18ed8ba371091a1ff68e91c749e5187834c03135"
+          }
+        },
+        {
+          "client_id": "765957404463-fqruf74t9hktii4j820a4op5l1dejqgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_u0-BVEa6zoEtKqV7GNHSs5RrHuz_8Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765957404463-fqruf74t9hktii4j820a4op5l1dejqgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
